@@ -125,6 +125,9 @@ No	| Step	| Action
 
 # 4.Final Visualisation
 
+Please view the proposed visualisation on Tableau Public [**here.**](https://public.tableau.com/app/profile/lim.jin.ru.alethea./viz/DataVizMakeOver2/Dashboard4)
+
+
 ![](img/finalviz.png){width=150%}
 
 # 5.Major Observations
