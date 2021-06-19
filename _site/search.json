@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Welcome to this blog - a blog dedicated to Visual Analytics. ",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-19T10:18:14+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "DataViz Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-19T10:20:29+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
